@@ -1,5 +1,6 @@
 # Definción de variables
-
+# CLASE 1 
+# CLASE 1 
 num1  = 10
 texto = 'Python fundamentals'
 num2 = 10.24
